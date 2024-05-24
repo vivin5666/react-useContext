@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React Shopping Cart Task Using useContext() This is a smple React application that demonstrates a basic shopping cart functionality.it includes a list of products with details such as title,description,price,discount,and stock.Users can view their selected products in a shopping cart and manage the quantity of each item. Topics Used: HTML CSS JAVASCRIPT BOOTSTRAP REACT
